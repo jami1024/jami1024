@@ -1,6 +1,10 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jami1024&show_icons=true&theme=radical)
+
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+```text
+```
 <!--END_SECTION:waka-->
 <!--
 **jami1024/jami1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
