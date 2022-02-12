@@ -4,7 +4,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2022 - 10 February, 2022
+Week: 05 February, 2022 - 11 February, 2022
 
 Vue.js       1 hr 17 mins    ██████████████████▒░░░░░░   73.40 % 
 Python       26 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.99 % 
