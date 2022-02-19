@@ -6,8 +6,6 @@
 ```text
 Week: 12 February, 2022 - 18 February, 2022
 
-Total: 5 hrs 55 mins
-
 Vue.js       4 hrs 30 mins   ███████████████████░░░░░░   76.15 % 
 Python       1 hr 1 min      ████▒░░░░░░░░░░░░░░░░░░░░   17.40 % 
 JavaScript   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
