@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 March 2022 - To: 20 March 2022
+From: 14 March 2022 - To: 21 March 2022
 
-Python         20 hrs 29 mins  █████████████████▒░░░░░░░   69.02 %
-Vue.js         6 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   20.50 %
-TypeScript     1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-HTML           42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-JavaScript     32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Bash           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Python         17 hrs 18 mins  ███████████████░░░░░░░░░░   60.52 %
+Vue.js         6 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   24.36 %
+TypeScript     2 hrs 58 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+HTML           42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+JavaScript     31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Bash           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
