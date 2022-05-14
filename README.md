@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 May 2022 - To: 13 May 2022
+From: 07 May 2022 - To: 14 May 2022
 
-Python           10 hrs 4 mins   ███████████████████▓░░░░░   78.32 %
-TypeScript       1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-Vue.js           55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-GitIgnore file   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Markdown         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Text             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Python           9 hrs 45 mins   ███████████████████▒░░░░░   77.77 %
+TypeScript       1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+Vue.js           55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+GitIgnore file   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Markdown         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Text             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
