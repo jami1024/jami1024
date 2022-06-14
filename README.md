@@ -5,13 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 June 2022 - To: 13 June 2022
+From: 07 June 2022 - To: 14 June 2022
 
-Python       9 hrs           ████████████████▓░░░░░░░░   67.00 %
-Vue.js       1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
-Groovy       1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
-Go           52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Python   8 hrs 54 mins   ███████████████▓░░░░░░░░░   62.03 %
+Other    2 hrs 23 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
 ```
 
 <!--END_SECTION:waka-->
