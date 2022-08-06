@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 July 2022 - To: 05 August 2022
+From: 30 July 2022 - To: 06 August 2022
 
-Python       6 hrs 24 mins   ████████████████░░░░░░░░░   64.07 %
-Vue.js       2 hrs 51 mins   ███████░░░░░░░░░░░░░░░░░░   28.65 %
-Other        43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Python       6 hrs 32 mins   ████████████▓░░░░░░░░░░░░   51.26 %
+Vue.js       5 hrs 27 mins   ██████████▓░░░░░░░░░░░░░░   42.72 %
+Other        45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
 ```
 
 <!--END_SECTION:waka-->
