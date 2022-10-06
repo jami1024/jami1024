@@ -5,11 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 September 2022 - To: 05 October 2022
-
-Python   8 mins          ████████████░░░░░░░░░░░░░   47.52 %
-Go       6 mins          █████████░░░░░░░░░░░░░░░░   36.38 %
-Vue.js   2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
