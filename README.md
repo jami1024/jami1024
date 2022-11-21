@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 November 2022 - To: 20 November 2022
+From: 14 November 2022 - To: 21 November 2022
 
-Python         4 hrs 47 mins   ██████████▓░░░░░░░░░░░░░░   42.37 %
-Vue.js         4 hrs 29 mins   ██████████░░░░░░░░░░░░░░░   39.83 %
-Bash           1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-Shell Script   27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-JavaScript     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Other          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Python         3 hrs 55 mins   ████████████▓░░░░░░░░░░░░   50.33 %
+Vue.js         1 hr 55 mins    ██████░░░░░░░░░░░░░░░░░░░   24.55 %
+Bash           1 hr 6 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
+Shell Script   27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+JavaScript     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Other          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
