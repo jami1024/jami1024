@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 December 2022 - To: 13 December 2022
+From: 07 December 2022 - To: 14 December 2022
 
 Go             5 hrs 11 mins   ███████████▓░░░░░░░░░░░░░   46.51 %
 Python         4 hrs 43 mins   ██████████▓░░░░░░░░░░░░░░   42.31 %
