@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 December 2022 - To: 16 December 2022
+From: 10 December 2022 - To: 17 December 2022
 
-Go             3 hrs 50 mins   █████████████▓░░░░░░░░░░░   54.06 %
-Python         2 hrs 46 mins   █████████▓░░░░░░░░░░░░░░░   38.88 %
-Vue.js         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-Bash           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-JavaScript     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python         2 hrs 46 mins   ███████████▓░░░░░░░░░░░░░   46.75 %
+Go             2 hrs 39 mins   ███████████▒░░░░░░░░░░░░░   44.76 %
+Vue.js         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+Bash           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+JavaScript     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
