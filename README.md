@@ -5,11 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 December 2022 - To: 04 January 2023
+From: 29 December 2022 - To: 05 January 2023
 
-Python         4 hrs 27 mins   ██████████████████████▒░░   88.94 %
-Vue.js         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-Other          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Python         3 hrs 36 mins   ████████████████████████░   96.26 %
+Vue.js         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Shell Script   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Bash           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
