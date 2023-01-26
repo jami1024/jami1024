@@ -5,11 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 January 2023 - To: 25 January 2023
-
-Vue.js       31 mins         █████████████████████▓░░░   87.17 %
-JavaScript   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Python       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
