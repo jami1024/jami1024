@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 March 2023 - To: 01 April 2023
+From: 26 March 2023 - To: 02 April 2023
 
 Python       2 hrs 43 mins   ████████████████▒░░░░░░░░   65.95 %
 Go           49 mins         █████░░░░░░░░░░░░░░░░░░░░   19.88 %
