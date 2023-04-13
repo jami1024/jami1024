@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2023 - To: 12 April 2023
+From: 06 April 2023 - To: 13 April 2023
 
-Python           6 hrs 47 mins   ██████████▒░░░░░░░░░░░░░░   41.60 %
-Vue.js           4 hrs 36 mins   ███████░░░░░░░░░░░░░░░░░░   28.23 %
-TypeScript       2 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
-Markdown         58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-Bash             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Other            14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Python           7 hrs 56 mins   ███████████▓░░░░░░░░░░░░░   47.07 %
+Vue.js           3 hrs 52 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.95 %
+TypeScript       2 hrs 38 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
+Markdown         1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Bash             21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Other            14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
