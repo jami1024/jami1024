@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2023 - To: 17 April 2023
+From: 11 April 2023 - To: 18 April 2023
 
-Python           8 hrs 14 mins   ██████████████▓░░░░░░░░░░   58.43 %
-TypeScript       1 hr 52 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
-Markdown         1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
-Bash             38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-YAML             33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-Other            14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Python           13 hrs 30 mins  █████████████████▓░░░░░░░   70.17 %
+Markdown         2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+TypeScript       1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+YAML             33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Bash             24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Shell Script     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
