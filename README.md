@@ -5,9 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 April 2023 - To: 02 May 2023
+From: 26 April 2023 - To: 03 May 2023
 
-Python   33 mins         █████████████████████████   100.00 %
+Python     1 hr 33 mins    ████████████████████████░   95.78 %
+Vue.js     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
