@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2023 - To: 16 August 2023
+From: 10 August 2023 - To: 17 August 2023
 
-Python         4 hrs 22 mins   ██████████▒░░░░░░░░░░░░░░   41.20 %
-Vue.js         3 hrs 59 mins   █████████▒░░░░░░░░░░░░░░░   37.56 %
-Bash           1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-Shell Script   37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-TypeScript     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Python           4 hrs 37 mins   ███████████▒░░░░░░░░░░░░░   45.97 %
+Vue.js           2 hrs 26 mins   ██████░░░░░░░░░░░░░░░░░░░   24.31 %
+Bash             1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+ActionScript 3   37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+Shell Script     25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
 ```
 
 <!--END_SECTION:waka-->
