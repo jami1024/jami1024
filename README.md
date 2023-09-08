@@ -5,12 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2023 - To: 07 September 2023
+From: 01 September 2023 - To: 08 September 2023
 
-Python                     6 hrs 27 mins   ███████████████████░░░░░░   76.48 %
-TypeScript                 59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-Vue.js                     52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-Assembly                   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Python                     6 hrs 32 mins   ███████████████████░░░░░░   75.82 %
+Vue.js                     59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+TypeScript                 59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+Assembly                   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 Groovy                     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
