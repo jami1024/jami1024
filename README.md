@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2023 - To: 08 September 2023
+From: 02 September 2023 - To: 09 September 2023
 
 Python                     6 hrs 32 mins   ███████████████████░░░░░░   75.82 %
 Vue.js                     59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
