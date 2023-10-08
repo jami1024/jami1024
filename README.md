@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2023 - To: 07 October 2023
+From: 01 October 2023 - To: 08 October 2023
 
-Python       54 mins         ████████████▓░░░░░░░░░░░░   51.28 %
-Vue.js       41 mins         █████████▓░░░░░░░░░░░░░░░   38.91 %
-JavaScript   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+Python       1 hr 5 mins     ██████████████░░░░░░░░░░░   56.10 %
+Vue.js       41 mins         ████████▓░░░░░░░░░░░░░░░░   35.07 %
+JavaScript   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
 ```
 
 <!--END_SECTION:waka-->
