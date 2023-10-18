@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2023 - To: 17 October 2023
+From: 11 October 2023 - To: 18 October 2023
 
-Python         4 hrs 54 mins   █████████████▒░░░░░░░░░░░   53.15 %
-Bash           2 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
-Shell Script   44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-Vue.js         36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-Groovy         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+Python         5 hrs 12 mins   ████████████▒░░░░░░░░░░░░   49.83 %
+Bash           2 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
+Vue.js         1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
+Shell Script   49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+Groovy         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
 ```
 
 <!--END_SECTION:waka-->
