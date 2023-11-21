@@ -5,9 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2023 - To: 20 November 2023
+From: 14 November 2023 - To: 21 November 2023
 
-No activity tracked
+Python         8 hrs 1 min     ██████████████████▒░░░░░░   72.97 %
+Vue.js         1 hr 56 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
+Bash           40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+Shell Script   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+INI            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
