@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 28 November 2023
+From: 22 November 2023 - To: 29 November 2023
 
-Python         10 hrs 27 mins  ███████████████████████▓░   94.23 %
-Bash           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Shell Script   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Vue.js         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Markdown       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Python         9 hrs 18 mins   ██████████████████████▒░░   89.19 %
+Vue.js         36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+Bash           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Shell Script   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+INI            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
