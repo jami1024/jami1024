@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2023 - To: 18 December 2023
+From: 12 December 2023 - To: 19 December 2023
 
-Python         8 hrs 23 mins   ████████████████████░░░░░   80.59 %
-Bash           1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
-Shell Script   38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-Vue.js         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Java           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python           9 hrs 58 mins   ████████████████████▓░░░░   83.05 %
+Bash             1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+Shell Script     36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Vue.js           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+JSON             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
