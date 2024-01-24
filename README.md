@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2024 - To: 23 January 2024
+From: 17 January 2024 - To: 24 January 2024
 
-Python         9 hrs 36 mins   ███████████████████████░░   92.39 %
-TypeScript     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Vue.js         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Markdown       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-INI            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Python         8 hrs 29 mins   ███████████████████████▒░   93.79 %
+TypeScript     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Vue.js         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Markdown       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+JavaScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
