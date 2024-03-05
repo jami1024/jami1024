@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2024 - To: 04 March 2024
+From: 27 February 2024 - To: 05 March 2024
 
-Python         1 hr 21 mins    ██████████████████████▒░░   88.90 %
-INI            4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-TypeScript     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-Shell Script   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Python         1 hr 26 mins    ████████████████████████░   95.64 %
+TypeScript     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 Vue.js         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Go             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
