@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2024 - To: 24 April 2024
+From: 18 April 2024 - To: 25 April 2024
 
-Groovy         1 hr 31 mins    █████████░░░░░░░░░░░░░░░░   36.12 %
-Python         1 hr 24 mins    ████████▒░░░░░░░░░░░░░░░░   33.18 %
-Other          1 hr 8 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
-TypeScript     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Vue.js         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Groovy         1 hr 31 mins    █████████▒░░░░░░░░░░░░░░░   36.68 %
+Python         1 hr 19 mins    ████████░░░░░░░░░░░░░░░░░   31.87 %
+Other          1 hr 8 mins     ██████▓░░░░░░░░░░░░░░░░░░   27.27 %
+TypeScript     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Vue.js         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->
