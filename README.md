@@ -1,5 +1,25 @@
 ### Hi there 👋
+
+我是一名游戏运维工程师，终身学习爱好者。
+
+🌎 我来自中国北京
+📫 您可以通过`996013797@qq.com`联系我
+🌱 我正在学习[Rust](https://course.rs/)、[云原生](https://github.com/superproj/onex)
+
+🛠️ 我使用的技术栈:
+- Python
+- Golang
+- Vue
+
+🚀 我正在进行这些项目:
+- [go-cron](https://github.com/jami1024/go-cron) 一个基于golang实现的crontab项目
+
+- [rust练习库](https://github.com/jami1024/learn_rust) 用于记录学习rust
+
+----
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jami1024&show_icons=true&theme=radical)
+
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
