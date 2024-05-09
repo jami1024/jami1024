@@ -6,7 +6,7 @@
 
 📫 您可以通过`996013797@qq.com`联系我
 
-🌱 我正在学习[Rust](https://course.rs/)、[云原生](https://github.com/superproj/onex)
+🌱 我正在学习[Rust](https://course.rs/)、[云原生](https://konglingfei.com/)
 
 🛠️ 我使用的技术栈:
 - Python
@@ -17,6 +17,8 @@
 - [go-cron](https://github.com/jami1024/go-cron) 一个基于golang实现的crontab项目
 
 - [rust练习库](https://github.com/jami1024/learn_rust) 用于记录学习rust
+
+- [onex](https://github.com/superproj/onex) 学习云原生项目开发脚手架
 
 ----
 
