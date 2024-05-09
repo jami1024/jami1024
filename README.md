@@ -3,7 +3,9 @@
 我是一名游戏运维工程师，终身学习爱好者。
 
 🌎 我来自中国北京
+
 📫 您可以通过`996013797@qq.com`联系我
+
 🌱 我正在学习[Rust](https://course.rs/)、[云原生](https://github.com/superproj/onex)
 
 🛠️ 我使用的技术栈:
