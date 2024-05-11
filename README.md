@@ -14,7 +14,7 @@
 - Vue
 
 🚀 我正在进行这些项目:
-- [go-cron](https://github.com/jami1024/go-cron) 一个基于golang实现的crontab项目
+- [go-cron](https://github.com/jami1024/go-cron) 一个基于golang实现的crontab项目，已经好久好久没写，下周开始搞。
 
 - [rust练习库](https://github.com/jami1024/learn_rust) 用于记录学习rust
 
