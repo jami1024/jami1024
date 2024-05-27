@@ -6,7 +6,7 @@
 
 📫 您可以通过`996013797@qq.com`联系我
 
-🌱 我正在学习[Rust](https://course.rs/)、[云原生](https://konglingfei.com/)
+🌱 我正在学习[云原生](https://konglingfei.com/)
 
 🛠️ 我使用的技术栈:
 - Python
@@ -14,9 +14,9 @@
 - Vue
 
 🚀 我正在进行这些项目:
-- [go-cron](https://github.com/jami1024/go-cron) 一个基于golang实现的crontab项目，已经好久好久没写，下周开始搞。
+- [go-cron](https://github.com/jami1024/go-cron) 一个基于golang实现的crontab项目。
 
-- [rust练习库](https://github.com/jami1024/learn_rust) 用于记录学习rust
+- [rust练习库](https://github.com/jami1024/learn_rust) 用于记录学习rust，rust太难了。。。
 
 - [onex](https://github.com/superproj/onex) 学习云原生项目开发脚手架
 
