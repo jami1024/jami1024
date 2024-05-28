@@ -18,6 +18,8 @@
 
 - [rust练习库](https://github.com/jami1024/learn_rust) 用于记录学习rust，rust太难了。。。
 
+- [100 Exercises To Learn Rust](https://github.com/mainmatter/100-exercises-to-learn-rust/tree/solutions) if/else部分
+
 - [onex](https://github.com/superproj/onex) 学习云原生项目开发脚手架
 
 ----
