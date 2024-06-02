@@ -31,7 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 May 2024 - To: 01 June 2024
+From: 26 May 2024 - To: 02 June 2024
 
 Go            2 hrs 41 mins   ███████▒░░░░░░░░░░░░░░░░░   29.55 %
 TypeScript    1 hr 48 mins    █████░░░░░░░░░░░░░░░░░░░░   19.95 %
