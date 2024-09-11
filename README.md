@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2024 - To: 10 September 2024
+From: 04 September 2024 - To: 11 September 2024
 
-Python             2 hrs 12 mins   ████████████████████████░   96.41 %
-Markdown           4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python     55 mins         █████████████████████░░░░   83.73 %
+Go         5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+Markdown   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
 ```
 
 <!--END_SECTION:waka-->
