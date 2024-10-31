@@ -33,13 +33,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2024 - To: 30 October 2024
+From: 24 October 2024 - To: 31 October 2024
 
-Python         1 hr 41 mins    ███████████████▓░░░░░░░░░   62.35 %
-Vue.js         45 mins         ███████░░░░░░░░░░░░░░░░░░   27.59 %
-Markdown       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-JavaScript     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-Text           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Vue.js       27 mins         ██████████░░░░░░░░░░░░░░░   39.46 %
+Python       27 mins         ██████████░░░░░░░░░░░░░░░   39.40 %
+Markdown     8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
+JavaScript   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
 ```
 
 <!--END_SECTION:waka-->
