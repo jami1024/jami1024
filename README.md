@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2024 - To: 10 November 2024
+From: 04 November 2024 - To: 11 November 2024
 
-Markdown     1 hr 42 mins    ████████████████▒░░░░░░░░   64.99 %
-Python       41 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
-Vue.js       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Bash         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Python         1 hr 7 mins     ██████████░░░░░░░░░░░░░░░   39.63 %
+Markdown       1 hr 7 mins     █████████▓░░░░░░░░░░░░░░░   39.29 %
+Vue.js         20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+TypeScript     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Shell Script   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
