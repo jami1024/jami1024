@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2024 - To: 20 November 2024
+From: 14 November 2024 - To: 21 November 2024
 
-Python         47 mins         █████████████░░░░░░░░░░░░   51.45 %
-Markdown       19 mins         █████░░░░░░░░░░░░░░░░░░░░   20.42 %
-Vue.js         12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-Image (svg)    5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-TypeScript     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Python         47 mins         ██████████████▓░░░░░░░░░░   58.15 %
+Markdown       19 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
+Image (svg)    5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+Vue.js         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Other          4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
 ```
 
 <!--END_SECTION:waka-->
