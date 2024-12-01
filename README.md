@@ -33,7 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2024 - To: 30 November 2024
+From: 24 November 2024 - To: 01 December 2024
 
 Python         26 mins         █████████████████████▒░░░   85.30 %
 TypeScript     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
