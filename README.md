@@ -33,12 +33,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2024 - To: 25 December 2024
+From: 19 December 2024 - To: 26 December 2024
 
-Python         1 hr 21 mins    █████████████████▒░░░░░░░   69.33 %
-Vue.js         19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
-TypeScript     11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-HTML           4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Python         2 hrs 22 mins   ████████████████████░░░░░   79.87 %
+Vue.js         19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
+TypeScript     11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+HTML           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
