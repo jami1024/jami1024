@@ -33,12 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2024 - To: 01 January 2025
+From: 26 December 2024 - To: 02 January 2025
 
-Python         2 hrs 39 mins   █████████████████████████   99.86 %
-Docker         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python         2 hrs 10 mins   ████████████████████▓░░░░   83.07 %
+Vue.js         18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
+Shell Script   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+TypeScript     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Bash           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
