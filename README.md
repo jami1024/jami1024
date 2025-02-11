@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2025 - To: 10 February 2025
+From: 04 February 2025 - To: 11 February 2025
 
-Go         22 mins         ████████████▒░░░░░░░░░░░░   49.50 %
-Python     17 mins         █████████▒░░░░░░░░░░░░░░░   37.57 %
-Markdown   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-Vue.js     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-textmate   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Markdown     1 hr 26 mins    ████████████░░░░░░░░░░░░░   48.61 %
+Go           1 hr 6 mins     █████████▒░░░░░░░░░░░░░░░   37.30 %
+Python       17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+textmate     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
