@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2025 - To: 10 March 2025
+From: 04 March 2025 - To: 11 March 2025
 
-Python             4 hrs 12 mins   ██████████████████████░░░   87.78 %
-JavaScript         29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-Bash               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-TypeScript         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-JSON               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Python             3 hrs 30 mins   █████████████████████▓░░░   86.43 %
+JavaScript         29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+TypeScript         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+JSON               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
