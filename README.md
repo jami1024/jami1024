@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2025 - To: 24 June 2025
+From: 18 June 2025 - To: 25 June 2025
 
-Python       3 hrs 59 mins   ██████████░░░░░░░░░░░░░░░   39.77 %
-Vue.js       2 hrs 58 mins   ███████▒░░░░░░░░░░░░░░░░░   29.57 %
-Bash         56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-TypeScript   39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-Markdown     37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+Python         4 hrs 9 mins    ██████████░░░░░░░░░░░░░░░   40.03 %
+Vue.js         3 hrs 27 mins   ████████▒░░░░░░░░░░░░░░░░   33.27 %
+Markdown       1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+TypeScript     33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+JSON           29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
 ```
 
 <!--END_SECTION:waka-->
