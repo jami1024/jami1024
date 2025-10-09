@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2025 - To: 08 October 2025
+From: 02 October 2025 - To: 09 October 2025
 
-Vue.js       25 mins         ██████████████████▓░░░░░░   75.29 %
-Markdown     5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
-TypeScript   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+Vue.js       17 mins         ██████████████████░░░░░░░   72.44 %
+Markdown     3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+TypeScript   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
 ```
 
 <!--END_SECTION:waka-->
