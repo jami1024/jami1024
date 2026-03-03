@@ -12,7 +12,6 @@
 
 - **语言**：Python / Golang
 - **前端**：Vue / React
-- **实践方向**：自动化脚本、任务调度、云原生工具链
 
 ## 🤖 AI 工具实践
 
@@ -20,10 +19,10 @@
 - **Claude CLI**：用于需求拆解、方案推演与文档优化。
 - **使用方式**：以命令行为主，结合 skills，把 AI 融入日常工程实践。
 
-## 🚀 进行中的项目
+## 🚀 项目进展
 
-- [`go-cron`](https://github.com/jami1024/go-cron)：基于 Golang 的 crontab 调度项目，聚焦任务管理与可扩展性。
-- [`onex`](https://github.com/superproj/onex)：学习云原生项目开发脚手架与工程结构设计。
+- ✅ [`go-cron`](https://github.com/jami1024/go-cron)：基于 Golang 的 crontab 调度项目，已完成并聚焦任务管理与可扩展性。
+- 🔄 [`onex`](https://github.com/superproj/onex)：学习云原生项目开发脚手架与工程结构设计。
 
 ---
 
