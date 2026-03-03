@@ -1,34 +1,51 @@
-### Hi there 👋
+### Hi there, I'm Jami 👋
 
-我是一名游戏运维工程师，努力成为终身学习者。
+我是 `jami1024`，一名游戏运维工程师。
+这里是我的技术博客式主页：记录实践、沉淀方法、持续迭代。
 
-🌎 我来自中国北京
+## ✍️ 博客定位
 
-📫 您可以通过`hxriyue@gmail.com`联系我
+- 主题：云原生、运维自动化、任务调度与工程效率
+- 目标：把实战经验整理成可复用的知识卡片和实践清单
+- 风格：问题驱动、过程透明、复盘优先
 
-🌱 我正在学习[云原生](https://konglingfei.com/)
+## 🧭 About Me
 
-🛠️ 我使用的技术栈:
+- 🌏 来自中国北京
+- 🌱 正在学习：云原生相关工程实践（持续进行中）
+- 💬 关注方向：Golang 工程化、任务编排、稳定性建设
+- 📫 联系方式：`hxriyue@gmail.com`
 
-- Python
-- Golang
-- Vue
+## 🛠 技术栈
 
-🚀 我正在进行这些项目:
+- **语言**：Python / Golang
+- **前端**：Vue
+- **实践方向**：自动化脚本、任务调度、云原生工具链
 
-- [go-cron](https://github.com/jami1024/go-cron) 一个基于 golang 实现的 crontab 项目。
+## 🤖 AI 工具实践
 
-- [rust 练习库](https://github.com/jami1024/learn_rust) 用于记录学习 rust，rust 太难了。。。
+- **OpenCode CLI**：用于代码阅读、改造与自动化工作流提效。
+- **Claude CLI**：用于需求拆解、方案推演与文档优化。
+- **使用方式**：以命令行为主，结合脚本化流程，把 AI 融入日常工程实践。
 
-- [100 Exercises To Learn Rust](https://github.com/mainmatter/100-exercises-to-learn-rust/tree/solutions) if/else 部分
+## 🚀 进行中的项目
 
-- [onex](https://github.com/superproj/onex) 学习云原生项目开发脚手架
+- [`go-cron`](https://github.com/jami1024/go-cron)：基于 Golang 的 crontab 调度项目，聚焦任务管理与可扩展性。
+- [`onex`](https://github.com/superproj/onex)：学习云原生项目开发脚手架与工程结构设计。
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jami1024&show_icons=true&theme=radical)
+## 📌 近期学习主线
 
-📊 **Weekly development breakdown**
+- 云原生基础能力建设：容器化、编排与部署流程理解
+- 运维自动化能力：从脚本到可维护任务系统
+- 工程化思维：通过项目实践沉淀规范与最佳实践
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jami1024&show_icons=true&theme=radical)
+
+## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 
@@ -39,17 +56,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-<!--
-**jami1024/jami1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
