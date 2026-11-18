@@ -38,11 +38,20 @@
 
 <div align="center">
 
-[![Tokscale 总量](https://tokscale.ai/api/embed/jami1024/svg?template=terminal&color=green&theme=dark&period=all&sort=tokens&rank=absolute&graph=1)](https://tokscale.ai/u/jami1024)
-
-<a href="https://tokscale.ai/u/jami1024?period=week"><img src="https://tokscale.ai/api/embed/jami1024/svg?template=terminal&color=green&theme=dark&period=week&sort=tokens&rank=absolute"></a>
+<table>
+<tr>
+<td align="center" valign="bottom" width="50%">
+<a href="https://tokscale.ai/u/jami1024"><img width="390" src="https://tokscale.ai/api/embed/jami1024/svg?template=terminal&color=green&theme=dark&period=all&sort=tokens&rank=absolute&graph=1"></a>
+<br>
+<sub>累计</sub>
+</td>
+<td align="center" valign="bottom" width="50%">
+<a href="https://tokscale.ai/u/jami1024?period=week"><img width="390" src="https://tokscale.ai/api/embed/jami1024/svg?template=terminal&color=green&theme=dark&period=week&sort=tokens&rank=absolute"></a>
 <br>
 <sub>近 7 天</sub>
+</td>
+</tr>
+</table>
 
 <img src="assets/usage-over-time.svg" alt="近 12 个月每日 token 用量（按模型堆叠）">
 
