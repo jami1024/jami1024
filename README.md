@@ -40,22 +40,13 @@
 
 [![Tokscale 总量](https://tokscale.ai/api/embed/jami1024/svg?template=terminal&color=green&theme=dark&period=all&sort=tokens&rank=absolute&graph=1)](https://tokscale.ai/u/jami1024)
 
-<table>
-<tr>
-<td align="center" valign="top">
-<a href="https://tokscale.ai/u/jami1024?period=month"><img width="400" src="https://tokscale.ai/api/embed/jami1024/svg?template=terminal&color=green&theme=dark&period=month&sort=tokens&rank=absolute"></a>
-<br>
-<sub>近 30 天</sub>
-</td>
-<td align="center" valign="top">
-<a href="https://tokscale.ai/u/jami1024?period=week"><img width="400" src="https://tokscale.ai/api/embed/jami1024/svg?template=terminal&color=green&theme=dark&period=week&sort=tokens&rank=absolute"></a>
+<a href="https://tokscale.ai/u/jami1024?period=week"><img src="https://tokscale.ai/api/embed/jami1024/svg?template=terminal&color=green&theme=dark&period=week&sort=tokens&rank=absolute"></a>
 <br>
 <sub>近 7 天</sub>
-</td>
-</tr>
-</table>
 
-<sub>AI 编程助手的 token 用量与等价 API 成本 · 数据来自 [Tokscale](https://tokscale.ai/u/jami1024)</sub>
+<img src="assets/usage-over-time.svg" alt="近 12 个月每日 token 用量（按模型堆叠）">
+
+<sub>上图：近 12 个月每日用量按模型堆叠，每天自动更新 · 数据来自 [Tokscale](https://tokscale.ai/u/jami1024)</sub>
 
 </div>
 
