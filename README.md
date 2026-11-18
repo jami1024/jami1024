@@ -17,15 +17,6 @@
 
 在北京做游戏运维，日常关心**自动化与稳定性建设**。
 
-## 🛠 技术栈
-
-| 领域 | 使用 |
-| --- | --- |
-| 语言 | `Go` `Python` `TypeScript` |
-| 前端 | `Vue` `React` |
-| 运维 | `Kubernetes` `Docker` `监控告警` `定时任务平台` |
-| AI | `Claude CLI` `Codex CLI` `pi` · 自建 skills 库 |
-
 ## 🔍 最近在看
 
 - **Agent 运行时** — 工具调用、上下文压缩、失败重试这些底层机制
