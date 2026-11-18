@@ -2,7 +2,7 @@
 
 # Jami
 
-<sub>游戏运维工程师 · 稳定性建设 / AI Agent 工程化</sub>
+<sub>别听我说，看我 agent 干的活</sub>
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20">
@@ -15,7 +15,7 @@
 
 ## 🧭 关于
 
-在北京做游戏运维。日常关心两件事：**自动化与稳定性建设**，和**把 Agent 塞进真实的运维与研发流程**——不做 demo，做能接手一部分脏活的那种。
+在北京做游戏运维，日常关心**自动化与稳定性建设**，也在把 Agent 塞进真实的运维与研发流程。
 
 主力语言是 Go 和 Python，前端能用 Vue / React 顶一下。折腾过的东西大多会留成笔记，能复用的就沉成 skill。
 
