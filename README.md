@@ -38,24 +38,9 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" valign="bottom" width="50%">
-<a href="https://tokscale.ai/u/jami1024"><img width="390" src="https://tokscale.ai/api/embed/jami1024/svg?template=terminal&color=green&theme=dark&period=all&sort=tokens&rank=absolute&graph=1"></a>
-<br>
-<sub>累计</sub>
-</td>
-<td align="center" valign="bottom" width="50%">
-<a href="https://tokscale.ai/u/jami1024?period=week"><img width="390" src="https://tokscale.ai/api/embed/jami1024/svg?template=terminal&color=green&theme=dark&period=week&sort=tokens&rank=absolute"></a>
-<br>
-<sub>近 7 天</sub>
-</td>
-</tr>
-</table>
+[![AI 用量总览：累计 / 近 7 天 / 近 12 个月趋势](assets/usage-overview.svg)](https://tokscale.ai/u/jami1024)
 
-<img src="assets/usage-over-time.svg" alt="近 12 个月每日 token 用量（按模型堆叠）">
-
-<sub>上图：近 12 个月每日用量按模型堆叠，每天自动更新 · 数据来自 [Tokscale](https://tokscale.ai/u/jami1024)</sub>
+<sub>累计 · 近 7 天 · 近 12 个月按模型堆叠，每天自动更新 · 数据来自 [Tokscale](https://tokscale.ai/u/jami1024)</sub>
 
 </div>
 
