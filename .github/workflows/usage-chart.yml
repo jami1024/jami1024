@@ -1,6 +1,6 @@
 name: usage chart
 
-# 每天刷新 README 里的「AI 用量随模型变化」图；数据来自 Tokscale 公开 JSON。
+# 每天刷新 README 里的「AI 用量」总览卡；数据来自 Tokscale 公开 JSON。
 on:
   schedule:
     - cron: "17 3 * * *"
@@ -20,16 +20,16 @@ jobs:
           python-version: "3.12"
 
       - name: Render chart
-        run: python scripts/usage_chart.py --user jami1024 --out assets/usage-over-time.svg
+        run: python scripts/usage_chart.py --user jami1024 --out assets/usage-overview.svg
 
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [ -z "$(git status --porcelain assets/usage-over-time.svg)" ]; then
+          if [ -z "$(git status --porcelain assets/usage-overview.svg)" ]; then
             echo "chart unchanged"
             exit 0
           fi
-          git add assets/usage-over-time.svg
+          git add assets/usage-overview.svg
           git commit -m "chore: refresh AI usage chart"
           git push
