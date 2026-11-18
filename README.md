@@ -15,7 +15,7 @@
 
 ## 🧭 关于
 
-在北京做游戏运维。日常关心两件事：**让线上别出事**，和**把 Agent 塞进真实的运维与研发流程**——不做 demo，做能接手一部分脏活的那种。
+在北京做游戏运维。日常关心两件事：**自动化与稳定性建设**，和**把 Agent 塞进真实的运维与研发流程**——不做 demo，做能接手一部分脏活的那种。
 
 主力语言是 Go 和 Python，前端能用 Vue / React 顶一下。折腾过的东西大多会留成笔记，能复用的就沉成 skill。
 
@@ -38,9 +38,24 @@
 
 <div align="center">
 
-[![Tokscale](https://tokscale.ai/api/embed/jami1024/svg?template=terminal&color=green&theme=dark&period=all&sort=tokens&rank=percent&graph=1)](https://tokscale.ai/u/jami1024)
+[![Tokscale 总量](https://tokscale.ai/api/embed/jami1024/svg?template=terminal&color=green&theme=dark&period=all&sort=tokens&rank=absolute&graph=1)](https://tokscale.ai/u/jami1024)
 
-<sub>AI 编程助手的 token 用量与等价 API 成本</sub>
+<table>
+<tr>
+<td align="center" valign="top">
+<a href="https://tokscale.ai/u/jami1024?period=month"><img width="400" src="https://tokscale.ai/api/embed/jami1024/svg?template=terminal&color=green&theme=dark&period=month&sort=tokens&rank=absolute"></a>
+<br>
+<sub>近 30 天</sub>
+</td>
+<td align="center" valign="top">
+<a href="https://tokscale.ai/u/jami1024?period=week"><img width="400" src="https://tokscale.ai/api/embed/jami1024/svg?template=terminal&color=green&theme=dark&period=week&sort=tokens&rank=absolute"></a>
+<br>
+<sub>近 7 天</sub>
+</td>
+</tr>
+</table>
+
+<sub>AI 编程助手的 token 用量与等价 API 成本 · 数据来自 [Tokscale](https://tokscale.ai/u/jami1024)</sub>
 
 </div>
 
