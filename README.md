@@ -37,9 +37,9 @@
 
 <div align="center">
 
-[![AI 用量总览：累计 / 近 7 天 / 近 12 个月趋势](assets/usage-overview.svg)](https://tokscale.ai/u/jami1024)
+[![AI 用量：近 24 周每日 token 贡献](assets/usage-overview.svg)](https://tokscale.ai/u/jami1024)
 
-<sub>累计 · 近 7 天 · 近 12 个月按模型堆叠，每天自动更新 · 数据来自 [Tokscale](https://tokscale.ai/u/jami1024)</sub>
+<sub>近 24 周每天的 token 用量，柱高按日用量开方压缩 · 每天自动更新 · 数据来自 [Tokscale](https://tokscale.ai/u/jami1024)</sub>
 
 </div>
 
